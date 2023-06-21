@@ -1,0 +1,19 @@
+* {
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #ebbbd8;
+}
+
+#header {
+   background: #f0fff0;
+   padding: 10px;
+}
+
+#header h1 {
+    font-family: 'Bagel Fat One', cursive;
+    color:#524d4d;
+}
